@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
 
-  s.source       = { :git => "https://github.com/itsmeichigo/DateTimePicker.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/matinouf/DateTimePicker.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
